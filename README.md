@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/ebec66334ecad9ca8d15874ffeff88d2117d5169de5ee82254b9b7c15ed9125b/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d3735266475726174696f6e3d313530302670617573653d36303026636f6c6f723d304345383242266261636b67726f756e643d30303030303045452663656e7465723d74727565267643656e7465723d74727565266d756c74696c696e653d747275652677696474683d31393230266865696768743d333834266c696e65733d48656c6c6f2b7468657265213b4d792b6e616d652b69732b436c6179746f6e2b48616d696c746f6e2532432b506861726d443b57656c636f6d652b746f2b6d792b524541444d45" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=75&amp;duration=1500&amp;pause=600&amp;color=0CE82B&amp;background=000000EE&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=1920&amp;height=384&amp;lines=Hello+there!;My+name+is+Chen+Yong;Welcome+to+my+README" style="max-width: 100%;" _msthidden="A" _mstalt="122304" _msthash="374"></a>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=00F76A&background=0E0E0E&center=%E7%9C%9F&vCenter=%E7%9C%9F&multiline=true&repeat=%E7%9C%9F&width=1200&height=300&lines=Hello+there!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%E4%B8%BB%E9%A1%B5" alt="Typing SVG" /></a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LawnCat&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LawnCat&theme=radical)](https://github.com/LawnCat/github-readme-stats)
 
